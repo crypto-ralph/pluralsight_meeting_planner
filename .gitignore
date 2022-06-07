@@ -1,0 +1,9 @@
+db.sqlite3
+.idea
+.git
+venv
+*.pyc
+*.pyo
+dist
+eggs
+parts
